@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @beatrizwho
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on frontend projects!
